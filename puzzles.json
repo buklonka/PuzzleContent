@@ -12,7 +12,7 @@
     },
     {
       "id": "DevaA",
-      "puzzleName": "Замок в горах",
+      "puzzleName": "Дева",
       "previewURL": "castle/preview.jpg",
       "difficulties": [
         { "pieceCount": 45, "piecesURL": "castle/easy/" },
