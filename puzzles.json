@@ -3,7 +3,7 @@
     {
       "id": "Butterfly",
       "puzzleName": "Бабочка",
-      "previewURL": "Butterfly/preview.png",
+      "previewURL": "puzzles/Butterfly/preview.png",
       "difficulties": [
         { "pieceCount": 45, "piecesURL": "Butterfly/easy/" },
         { "pieceCount": 77, "piecesURL": "Butterfly/medium/" },
@@ -13,7 +13,7 @@
     {
       "id": "DevaA",
       "puzzleName": "Дева",
-      "previewURL": "DevaA/preview.png",
+      "previewURL": "/puzzles/DevaA/preview.png", 
       "difficulties": [
         { "pieceCount": 45, "piecesURL": "DevaA/easy/" },
         { "pieceCount": 77, "piecesURL": "DevaA/medium/" },
@@ -23,7 +23,7 @@
        {
       "id": "Ukral",
       "puzzleName": "Похищение звезды",
-      "previewURL": "Ukral/preview.png",
+      "previewURL": "/puzzles/Ukral/preview.png", 
       "difficulties": [
         { "pieceCount": 45, "piecesURL": "Ukral/easy/" },
         { "pieceCount": 77, "piecesURL": "castUkralle/medium/" },
