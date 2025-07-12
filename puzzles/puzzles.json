@@ -21,13 +21,13 @@
       ]
     },
     {
-      "id": "UkraI",
+      "id": "Ukral",
       "puzzleName": "Похищение звезды",
-      "previewURL": "UkraI/preview.png",
+      "previewURL": "Ukral/preview.png",
       "difficulties": [
-        { "pieceCount": 45, "piecesURL": "UkraI/easy/" },
-        { "pieceCount": 77, "piecesURL": "UkraI/medium/" },
-        { "pieceCount": 117, "piecesURL": "UkraI/hard/" }
+        { "pieceCount": 45, "piecesURL": "Ukral/easy/" },
+        { "pieceCount": 77, "piecesURL": "Ukral/medium/" },
+        { "pieceCount": 117, "piecesURL": "Ukral/hard/" }
       ]
     }
   ]
