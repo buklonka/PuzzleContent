@@ -1,0 +1,24 @@
+{
+  "puzzles": [
+    {
+      "id": "butterfly",
+      "puzzleName": "Бабочка",
+      "previewURL": "butterfly/preview.jpg",
+      "difficulties": [
+        { "pieceCount": 45, "piecesURL": "butterfly/easy/" },
+        { "pieceCount": 77, "piecesURL": "butterfly/medium/" },
+        { "pieceCount": 117, "piecesURL": "butterfly/hard/" }
+      ]
+    },
+    {
+      "id": "castle",
+      "puzzleName": "Замок в горах",
+      "previewURL": "castle/preview.jpg",
+      "difficulties": [
+        { "pieceCount": 45, "piecesURL": "castle/easy/" },
+        { "pieceCount": 77, "piecesURL": "castle/medium/" },
+        { "pieceCount": 117, "piecesURL": "castle/hard/" }
+      ]
+    }
+  ]
+}
