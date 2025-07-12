@@ -22,7 +22,7 @@
     },
        {
       "id": "Ukral",
-      "puzzleName": "Похищение звездыw",
+      "puzzleName": "Похищение звезды",
       "previewURL": "Ukral/preview.jpg",
       "difficulties": [
         { "pieceCount": 45, "piecesURL": "Ukral/easy/" },
