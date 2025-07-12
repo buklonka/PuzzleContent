@@ -1,23 +1,33 @@
 {
   "puzzles": [
     {
-      "id": "butterfly",
+      "id": "Butterfly",
       "puzzleName": "Бабочка",
-      "previewURL": "butterfly/preview.jpg",
+      "previewURL": "Butterfly/preview.png",
       "difficulties": [
-        { "pieceCount": 45, "piecesURL": "butterfly/easy/" },
-        { "pieceCount": 77, "piecesURL": "butterfly/medium/" },
-        { "pieceCount": 117, "piecesURL": "butterfly/hard/" }
+        { "pieceCount": 45, "piecesURL": "Butterfly/easy/" },
+        { "pieceCount": 77, "piecesURL": "Butterfly/medium/" },
+        { "pieceCount": 117, "piecesURL": "Butterfly/hard/" }
       ]
     },
     {
-      "id": "castle",
-      "puzzleName": "Замок в горах",
-      "previewURL": "castle/preview.jpg",
+      "id": "DevaA",
+      "puzzleName": "Дева",
+      "previewURL": "DevaA/preview.png",
       "difficulties": [
-        { "pieceCount": 45, "piecesURL": "castle/easy/" },
-        { "pieceCount": 77, "piecesURL": "castle/medium/" },
-        { "pieceCount": 117, "piecesURL": "castle/hard/" }
+        { "pieceCount": 45, "piecesURL": "DevaA/easy/" },
+        { "pieceCount": 77, "piecesURL": "DevaA/medium/" },
+        { "pieceCount": 117, "piecesURL": "DevaA/hard/" }
+      ]
+    },
+    {
+      "id": "UkraI",
+      "puzzleName": "Похищение звезды",
+      "previewURL": "UkraI/preview.png",
+      "difficulties": [
+        { "pieceCount": 45, "piecesURL": "UkraI/easy/" },
+        { "pieceCount": 77, "piecesURL": "UkraI/medium/" },
+        { "pieceCount": 117, "piecesURL": "UkraI/hard/" }
       ]
     }
   ]
