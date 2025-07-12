@@ -5,29 +5,29 @@
       "puzzleName": "Бабочка",
       "previewURL": "puzzles/Butterfly/preview.png",
       "difficulties": [
-        { "pieceCount": 45, "piecesURL": "Butterfly/easy/" },
-        { "pieceCount": 77, "piecesURL": "Butterfly/medium/" },
-        { "pieceCount": 117, "piecesURL": "Butterfly/hard/" }
+        { "pieceCount": 45, "piecesURL": "puzzles/Butterfly/easy/" },
+        { "pieceCount": 77, "piecesURL": "puzzles/Butterfly/medium/" },
+        { "pieceCount": 117, "piecesURL": "puzzles/Butterfly/hard/" }
       ]
     },
     {
       "id": "DevaA",
       "puzzleName": "Дева",
-      "previewURL": "/puzzles/DevaA/preview.png", 
+      "previewURL": "puzzles/DevaA/preview.png",
       "difficulties": [
-        { "pieceCount": 45, "piecesURL": "DevaA/easy/" },
-        { "pieceCount": 77, "piecesURL": "DevaA/medium/" },
-        { "pieceCount": 117, "piecesURL": "DevaA/hard/" }
+        { "pieceCount": 45, "piecesURL": "puzzles/DevaA/easy/" },
+        { "pieceCount": 77, "piecesURL": "puzzles/DevaA/medium/" },
+        { "pieceCount": 117, "piecesURL": "puzzles/DevaA/hard/" }
       ]
     },
-       {
-      "id": "Ukral",
+    {
+      "id": "UkraI",
       "puzzleName": "Похищение звезды",
-      "previewURL": "/puzzles/Ukral/preview.png", 
+      "previewURL": "puzzles/UkraI/preview.png",
       "difficulties": [
-        { "pieceCount": 45, "piecesURL": "Ukral/easy/" },
-        { "pieceCount": 77, "piecesURL": "castUkralle/medium/" },
-        { "pieceCount": 117, "piecesURL": "Ukral/hard/" }
+        { "pieceCount": 45, "piecesURL": "puzzles/UkraI/easy/" },
+        { "pieceCount": 77, "piecesURL": "puzzles/UkraI/medium/" },
+        { "pieceCount": 117, "piecesURL": "puzzles/UkraI/hard/" }
       ]
     }
   ]
